@@ -7,4 +7,7 @@
 
 ## 6주차 실습화면 (2022-04-07)
 
+ tcp 예제
+<img width="" height="" src=./pic/6주차_1.PNG></img>
+ udp 예제
 <img width="" height="" src=./pic/6주차.PNG></img>
